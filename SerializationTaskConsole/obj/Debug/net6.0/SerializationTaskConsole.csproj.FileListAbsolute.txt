@@ -1,0 +1,15 @@
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\bin\Debug\net6.0\SerializationTaskConsole.exe
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\bin\Debug\net6.0\SerializationTaskConsole.deps.json
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\bin\Debug\net6.0\SerializationTaskConsole.runtimeconfig.json
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\bin\Debug\net6.0\SerializationTaskConsole.dll
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\bin\Debug\net6.0\SerializationTaskConsole.pdb
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.csproj.AssemblyReference.cache
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.AssemblyInfoInputs.cache
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.AssemblyInfo.cs
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.dll
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\refint\SerializationTaskConsole.dll
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.pdb
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\SerializationTaskConsole.genruntimeconfig.cache
+C:\Users\Alfa\source\repos\SerializationTask\SerializationTaskConsole\obj\Debug\net6.0\ref\SerializationTaskConsole.dll
