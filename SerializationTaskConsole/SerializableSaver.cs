@@ -9,7 +9,7 @@ namespace SerializationTaskConsole
 {
     public class SerializableSaver<T>
     {
-        JsonSerializerOptions options = new JsonSerializerOptions
+        JsonSerializerOptions _options = new JsonSerializerOptions
         {
             WriteIndented = true,
             Encoder = JavaScriptEncoder.Create(UnicodeRanges.All),
@@ -18,7 +18,7 @@ namespace SerializationTaskConsole
         };
         public void Save(T obj, string path) 
         {
-            var result = JsonSerializer.Serialize(obj, options);
+            var result = JsonSerializer.Serialize(obj, _options);
             File.WriteAllText(path, result, Encoding.UTF8);
         }
 
@@ -27,7 +27,7 @@ namespace SerializationTaskConsole
             using (StreamReader st = new StreamReader(path))
             {
                 string json = st.ReadToEnd();
-                T result = JsonSerializer.Deserialize<T>(json, options);
+                T result = JsonSerializer.Deserialize<T>(json, _options);
                 return result;
             }
 
